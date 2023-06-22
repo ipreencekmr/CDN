@@ -4,71 +4,71 @@
     "nasa-root": {
       "browser": {
         "integrity": "sha256-K/YvP7O4cPxpW6CJjGx0fGECI3p0AeqflggkseP0tHA= sha384-DIeJ0Zu+z0oK/MM8qCLKihHlfH92qtJ9HzGqGaYEcXYZc4aMd8+VgrvnPX1H/mtv",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-root/1.0.0/nasa-root.browser.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-root/1.0.0/nasa-root.browser.js"
       },
       "node": {
         "integrity": "sha256-oTco0XAcx0WfT+HYUqApeN5gZ7e/ezfckWkxUGJ6vC8= sha384-3eIp3IB2dkQW+FRwEiCzAq76wPVlf59+Yo3qYUJ3mvBglXxTKSYzy1NEUUAkwl1K",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-root/1.0.0/nasa-root.node.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-root/1.0.0/nasa-root.node.js"
       },
       "legacyBrowser": {
         "integrity": "sha256-SGVowSWU+Ci6VvZ0pwZqWRsSfChvuUqexKMnsR45Q5g= sha384-atqC8XU7H32LxldEK5qDb6FoiZDYWVkQc5uiSMc4pWt6hMG7QX3AAUkBRsjfXvva",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-root/1.0.0/nasa-root.legacy.browser.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-root/1.0.0/nasa-root.legacy.browser.js"
       }
     },
     "nasa-container": {
       "browser": {
         "integrity": "sha256-1ha5Z5EHo0phDgzeNiqYw2exdEWTLk5YS5bqD4o3HVk= sha384-gv3+iIy/kv+OnTuPAuDN0D5RcUol35thhw24ivjFLBgSlyICS+YYJfpif50vVCZq",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-container/1.0.0/nasa-container.browser.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-container/1.0.0/nasa-container.browser.js"
       },
       "node": {
         "integrity": "sha256-9FYf62pqljeBxGv147mlvcxEhZ4Niz/xNh3oamOiwOc= sha384-UoB3sEeE6by4afepoS+pjlqR3111G+PlzbK4SKBKRNXgqJQ8BhniZ3lm4lKtCYZ5",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-container/1.0.0/nasa-container.node.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-container/1.0.0/nasa-container.node.js"
       },
       "legacyBrowser": {
         "integrity": "sha256-Ep0kYgKaN2joBWaNn6i9OSz9fSpmVOJsMJfcjEuxOCc= sha384-9ryaukDRSn0i6st+QIi03ATgjjlcKZof2ZWAHy+6sC/M7UfzU3Jmig+aNSHOoiY3",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-container/1.0.0/nasa-container.legacy.browser.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-container/1.0.0/nasa-container.legacy.browser.js"
       }
     },
     "nasa-home": {
       "browser": {
         "integrity": "sha256-asTUoQPnu1AnsygAvyHbFe/4F2T+ntEZZ/5c67rlEMo= sha384-spq9d2QUBtQyrhobFQQU2EiP/jFdUc/rk/pwJqaupSfq6zb8n/tMCgCKL/Xq1/Db",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-home/1.0.0/nasa-home.browser.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-home/1.0.0/nasa-home.browser.js"
       },
       "node": {
         "integrity": "sha256-YzsaWxx4UVr3h6Nh2NuxZVPc0GvxvjS47Jbs6BZZLxQ= sha384-eZVsHh5tiTRwP4qH0Suwm01fQQKaXIIAOxHVHMDiGuZjGtMjmdUAccDP3wCURVfb",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-home/1.0.0/nasa-home.node.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-home/1.0.0/nasa-home.node.js"
       },
       "legacyBrowser": {
         "integrity": "sha256-u9AV/LPG7s5/Hva75J12831MPnjoZb/q3s1I8SkpwXA= sha384-hBX+Ch+2uW5qKZ5HEe/dzegBSZpaF+v9oCpdmsLrAF8Hh6mPMMFyodRZGsVDgGZL",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-home/1.0.0/nasa-home.legacy.browser.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-home/1.0.0/nasa-home.legacy.browser.js"
       }
     },
     "nasa-header": {
       "browser": {
         "integrity": "sha256-Gvp73kSNEQU32gCHG5Nw0Gb7eq4cDyXb5/ShF0PLKF0= sha384-jPIfogkE6F5DjccI1x5akxR8rUJePRdEpwPDHR29EblPP2CAMyQIw8xkarK5y/xL",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-header/1.0.0/nasa-header.browser.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-header/1.0.0/nasa-header.browser.js"
       },
       "node": {
         "integrity": "sha256-dYYae9CLFkU/EQI4mXw8P1oQH36SJ4R3PuWLajQPaVM= sha384-qGJiqzMZuHu4mBsh1HBlLmjLiQ7L8+RhVzYJG7SjGca/aCTqSPfNH2fvB0Q19ZC7",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-header/1.0.0/nasa-header.node.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-header/1.0.0/nasa-header.node.js"
       },
       "legacyBrowser": {
         "integrity": "sha256-THkuiwm8l8x/J5ygySAzN+T4UEW/KxVxamqkQFu/ifQ= sha384-Clg1eRB5GYb+kief9pGT3NCUmXgeRE1GEMrEF5Pgs7qvysfBweHSAbxofVYdd1AA",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-header/1.0.0/nasa-header.legacy.browser.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-header/1.0.0/nasa-header.legacy.browser.js"
       }
     },
     "nasa-footer": {
       "browser": {
         "integrity": "sha256-tXSHX/y+0EbezyPhpVeVInvFioOrf36pKjI7Ans/n7k= sha384-G/0FPXLsV4TsKJ2LypfA3UAuFx96M4jvTT07uWXilHBZ5LcNXllDVanAsqr4SDc2",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-footer/1.0.0/nasa-footer.browser.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-footer/1.0.0/nasa-footer.browser.js"
       },
       "node": {
         "integrity": "sha256-H1jnomkfWtZ7a/J8YUQIikx0s9TUm0Ex2bEkSabRk1Y= sha384-/v4RYWGbsZfXkiHws0KflolG02/9rWrrANDfo1agy1q2u5YBnZ252D4nsX57+Wec",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-footer/1.0.0/nasa-footer.node.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-footer/1.0.0/nasa-footer.node.js"
       },
       "legacyBrowser": {
         "integrity": "sha256-AwyiyrXKlyDIv+aS41ArsOH60JCmjt9LZRLa+5/a5eQ= sha384-Vi3a/COZP9ZZfwnGs2v98ATw0wo60oidqFkrhJnYfJ4Ae1CC4hXHw3VGStd7lJKj",
-        "url": "[one-app-dev-cdn-url]/static/modules/nasa-footer/1.0.0/nasa-footer.legacy.browser.js"
+        "url": "https://cdn.jsdelivr.net/gh/ipreencekmr/CDN@main/nasa/static/modules/nasa-footer/1.0.0/nasa-footer.legacy.browser.js"
       }
     }
   }
